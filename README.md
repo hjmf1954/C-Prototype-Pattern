@@ -15,6 +15,7 @@ There are 2 installed versions necessary and 1 optional to run the software:
 - Installed GNU-Make
 - Installed C++ Compiler
 - Installed Doxygen (Optional)
+
 See the build.info for more information.
 
 ## Installation
@@ -30,6 +31,7 @@ $ make
 
 # Shows the Help-page
 $ make show
+```
 
 ## Build Prototype Pattern
 Please read the 'build.info' and use the make script as shown above.
