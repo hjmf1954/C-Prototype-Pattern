@@ -11,10 +11,11 @@ The Project is based on the Book of the Gang of Four: *Design Patterns, Elements
 The file *build.info* contains all information on the project in plain text format.
 
 ## Pre-requirements
-There are 2 installed versions necessary to run the software:
+There are 2 installed versions necessary and 1 optional to run the software:
 - Installed GNU-Make
 - Installed C++ Compiler
-- Installed Doxygen
+- Installed Doxygen (Optional)
+See the build.info for more information.
 
 ## Installation
 - Clone the repository using the standard Git clone command.
