@@ -1,0 +1,43 @@
+  Introduction
+  ============
+  The project PrototypeDemo is an implementation of:
+   - 'creational' Design Pattern Prototype
+  Design Patterns are the basic building blocks for creating maintainable software.
+
+  Designing object-oriented software is hard, and designing reusable object-oriented software is even harder.
+  Experienced object-oriented designers will tell you that a reusable and flexible design is difficult
+  if not impossible to get "right" the first time.
+  Before a design is finished, they usually try to reuse it several times, modifying it each time.
+
+  The given implementation is made with the following purpose:
+   1. Complete working example of the pattern written in C++.
+   2. Complete building by the client with make and C++
+   3. No External Libraries needed.
+   4. The code-example is made to explain the pattern in C++ and not to explain C++.
+
+   How to use
+   ==========
+   The following actions are required:
+   - Extract Archive-file into a directory of your choice.
+   - Open a terminal window (UNIX) or a DOS Command window (Windows).
+   - Goto the directory containing the files 'makefile' and 'build.info'
+   - Execute the command 'make' to run almost all available commands.
+
+   Requirements
+   ============
+    C++ Compiler
+      Read the page:
+      - UNIX    : https://arachnoid.com/cpptutor/setup_unix.html
+      - Windows : https://arachnoid.com/cpptutor/setup_windows.html
+    GNU Make
+      Read the information on the website https://www.gnu.org/software/make
+    Doxygen Document generator
+      The makefile generates also doxygen documentation if Doxygen is installed.
+      See http://www.stack.nl/~dimitri/doxygen
+
+
+  Description
+  ===========
+  - Prototype : https://www.harmfrielink.nl/wiki/index.php/Prototype_Pattern
+  - Patterns  : https://www.harmfrielink.nl/wiki/index.php/Patterns
+
