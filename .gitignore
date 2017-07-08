@@ -32,7 +32,9 @@
 *.out
 *.app
 
-# Generated documentation and object directories
+# Generated documentation
 html/
 latex/
+
+# Generated objects
 obj/
