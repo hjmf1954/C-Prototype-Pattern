@@ -6,7 +6,7 @@
 # 1.0.2.1 - 11 Oct 2015 - Added Comment and Doxygen                       -- ##
 # 1.0.2.2 - 12 Oct 2015 - Added more rules and simplifications            -- ##
 # 1.0.2.3 - 30 Oct 2015 - Implementation for stack                        -- ##
-# 1.0.2.4 - 04 Jul 2017 - Implemenatation for Prototype pattern           -- ##
+# 1.0.2.4 - 04 Jul 2017 - Implementation for Prototype pattern            -- ##
 ###############################################################################
 
 # Just a snippet to stop executing under other make(1) commands
