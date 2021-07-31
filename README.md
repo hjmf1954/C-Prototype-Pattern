@@ -45,4 +45,4 @@ MIT License.
 Email is my preferred way to communciate, please use harm.frielink@gmail.com with a descriptive Subject text.
 
 ## Version
-Last Updated 31 July 2021 - Review
+Last Updated 31 July 2021 - Review and git changes
